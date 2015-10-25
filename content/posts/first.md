@@ -17,6 +17,7 @@ I am a huge fan of Medium and on most days I learn something new from the articl
 As I start off in my blogging journey, I need something which felt _easy_. 
 
 On further introspection, I figured that I needed the following - 
+
 - Write offline in my editor of choice (Sublime Text) with VI-mode.
 - Minimalistic theme which just lists the article titles.
 - A programming focussed blog (Medium seems to less targeted toward programming blogs).
