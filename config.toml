@@ -1,0 +1,10 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "iSubuz"
+
+[params]
+Author = "Subhajit Ghosh"
+Tagline = "Lead @Skipjaq"
+AuthorEmail = "i.subhajit.ghosh@gmail.com"
+FeedBurner = ""
+DateForm = "Jan 2, 2006"
